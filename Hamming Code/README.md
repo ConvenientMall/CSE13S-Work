@@ -1,15 +1,15 @@
-#Assignment 5: Hamming Codes
+# Assignment 5: Hamming Codes
 Jinsu Hwang  
 jhwang39  
 Spring 2021  
 
 -----------
-##DESCRIPTION  
+## DESCRIPTION  
 
 A Hamming(8, 4) systematic code generator and Hamming (8,4) systematic code decoder.
 
 -----------
-##FILES
+## FILES
 
 error.c  
 entropy.h  
@@ -21,7 +21,7 @@ hamming.{c, h}
 globalvar.{c,h}  
 Makefile  
 -----------
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 To build: go to the directory with the above files and type "make" and press enter.
 

@@ -1,15 +1,15 @@
-#Assignment 4: The Circummnavigations of Denver Long
+# Assignment 4: The Circummnavigations of Denver Long
 Jinsu Hwang  
 jhwang39  
 Spring 2021  
 
 -----------
-##DESCRIPTION  
+## DESCRIPTION  
 
 Traveling Salesman Problem using DFS and utilizes graphs, paths, and stacks. 
 
 -----------
-##FILES
+## FILES
 
 vertices.h  
 graph.{c, h}  
@@ -19,7 +19,7 @@ globalvar.{c,h}
 tsp.c  
 
 -----------
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 To build: go to the directory with the above files and type "make" and press enter
 

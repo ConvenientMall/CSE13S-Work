@@ -1,12 +1,12 @@
-#Assignment 6: Huffman Coding
+# Assignment 6: Huffman Coding
 Jinsu Hwang
 jhwang39
 Spring 2021
 
-##DESCRIPTION
+## DESCRIPTION
 A huffman file compression program and a huffman compressed decoder program.
 
-##FILES
+## FILES
 
 • encode.c   
 • decode.c  
@@ -26,7 +26,7 @@ A huffman file compression program and a huffman compressed decoder program.
 • huffman.h  
 • huffman.c  
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 To build: go to the directory with the above files and type "make" and press enter.  
 To run: go to the directory with "encode" and "decode" and type "./encode" or "./decode" and your desired command line arguments in the   following format for encode  
 

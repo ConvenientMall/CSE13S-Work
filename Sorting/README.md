@@ -1,15 +1,15 @@
-#Assignment 3: Sorting   
+# Assignment 3: Sorting   
 Jinsu Hwang  
 jhwang39  
 Spring 2021  
 
 -----------
-##DESCRIPTION  
+## DESCRIPTION  
 
 The programs are a collection of sorts as well as a tester that creates arrays that the sorting algorithims sort through.
 
 -----------
-##FILES
+## FILES
 
 bubble.{c, h}  
 gaps.h  
@@ -21,7 +21,7 @@ set.{c,h}
 sorting.c  
 Makefile  
 -----------
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 To build: go to the directory with the above files and type "make" and press enter
 
