@@ -1,15 +1,15 @@
-##Assignment 7: Bloom Filters, Linked Lists and Hash Tables
+#Assignment 7: Bloom Filters, Linked Lists and Hash Tables
 Jinsu Hwang  
 jhwang39  
 Spring 2021  
 
 -----------
-#DESCRIPTION  
+##DESCRIPTION  
 
 A word filtering program for the GPRSC. Filters out and reports bad words parsed from stdin. Uses bloom filter, linked lists and hash tables.
   
 -----------
-#FILES
+##FILES
 
 banhammer.c  
 messages.h  
@@ -21,11 +21,9 @@ node.{c, h}
 bf.{c,h}  
 parser.{c, h}  
 Makefile  
-DESIGN.pdf  
-WRITEUP.pdf
   
 -----------
-#INSTRUCTIONS
+##INSTRUCTIONS
 
 To build: go to the directory with the above files and type "make" and press enter.
 
